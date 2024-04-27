@@ -10,3 +10,5 @@ After training the deep learning model we converted it in TFlite model so that i
 After that we Design Android App to take input images show results description about flowers & deploy TFlite converted model in Android App. 
 Android App can identify 10 specific flowers & show results on real time.
 
+Article Publication Link:
+https://www.hindawi.com/journals/cin/2022/9359353/
